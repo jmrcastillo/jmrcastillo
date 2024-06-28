@@ -6,6 +6,12 @@ I'm a Passionate Software Developer, Love to Learn new things, Have the ability 
 
 ## Connect With Me
 
+#### ![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white) <sup> : jmrcas09@gmail.com</sup>
+
+#### ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-flat&logo=linkedin&logoColor=white) <sup> : https://www.linkedin.com/in/jmrcas/</sup>
+
+#### ![LinkedIn](https://img.shields.io/badge/fiverr-1DBF73?&logo=fiverr&logoColor=white) <sup> : https://www.fiverr.com/jmrcas?up_rollout=true</sup>
+
 **List of technologies that I'm familiar with and have used in my projects**
 
 | **Programming Languages** | **Frontend** | **Backend** | **Database** | **Version Control** | **Other Tools** |
