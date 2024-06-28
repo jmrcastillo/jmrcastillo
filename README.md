@@ -1,4 +1,10 @@
-# jmrcastillo
+# Mauro Castillo
+
+## Software Developer
+
+I'm a Passionate Software Developer, Love to Learn new things, Have the ability to solve problem by analyzing and identifying the problem, and finding the solution
+
+## Connect With Me
 
 **List of technologies that I'm familiar with and have used in my projects**
 
